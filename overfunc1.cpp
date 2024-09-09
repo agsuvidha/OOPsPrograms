@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#include<conio.h>
+
 void add(int a, int b)
 {
   cout << "sum = " << (a + b);
